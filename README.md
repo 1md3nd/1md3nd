@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=1md3nd&theme=onedark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=1md3nd&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=1md3nd&theme=onedark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-![](https://komarev.com/ghpvc/?username=1md3nd)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=1md3nd&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/1md3nd) 
+![](https://komarev.com/ghpvc/?username=1md3nd)
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
